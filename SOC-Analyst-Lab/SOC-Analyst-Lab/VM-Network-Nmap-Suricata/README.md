@@ -1,4 +1,4 @@
-# Day 01: VM Setup, Network Configuration, Service Enumeration & Detection
+# VM Setup, Network Configuration, Service Enumeration & Detection
 
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
